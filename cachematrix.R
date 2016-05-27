@@ -1,5 +1,5 @@
 ## The two functions contained in this script first create
-## a special object
+## a special object , then calculates the inverse.
 
 ## create a special matrix object that caches its inverse
 
